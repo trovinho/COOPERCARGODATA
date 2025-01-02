@@ -1,0 +1,77 @@
+{
+  "vtc": {
+    "id": 73333,
+    "name": "Coopercargo LTD",
+    "slogan": "Eficiência em movimento",
+    "logo": "https://truckersmp.com/assets/img/vtc/73333.png",
+    "discord": "discord.gg/FSh5BGJzar",
+    "email": "luckyehadlindo@coopercargo.com"
+  },
+  "imgur": {
+    "albumHash": "xRLpFRo",
+    "clientId": "7ff3f67661def65"
+  },
+  "slogans": [
+    "Conectando motoristas pelo mundo virtual",
+    "Liderando o transporte virtual com excelência",
+    "A experiência definitiva em TruckersMP"
+  ],
+  "comoEntrar": {
+    "steps": [
+      "Certifique-se de ter uma conta ativa no TruckersMP",
+      "Tenha pelo menos 50 horas de jogo no Euro Truck Simulator 2 ou American Truck Simulator",
+      "Junte-se ao nosso servidor Discord",
+      "Proibido 5 Bans ativo na conta",
+      "Obrigatório uso de TAGS e PINTURAS da VTC em comboios oficiais",
+      "Caso o usuario seja pego usando hack, será expulso da vtc e reportado",
+      "Respeitar amigos e colegas de outras VTC´s",
+      "Ser presente em comboios sempre que possivel.",
+      "Respeitar as regras impostas pela moderação TRUCKERSMP"
+    ]
+  },
+  "partners": [
+    {
+      "id": 66720,
+      "name": "EUMEFA",
+      "url": "https://truckersmp.com/vtc/66720"
+    }
+  ],
+  "theme": {
+    "light": {
+      "primary": "#3b82f6",
+      "secondary": "#f3f4f6",
+      "accent": "#10b981",
+      "background": "#ffffff",
+      "text": "#1f2937"
+    },
+    "dark": {
+      "primary": "#60a5fa",
+      "secondary": "#374151",
+      "accent": "#34d399",
+      "background": "#111827",
+      "text": "#f9fafb"
+    }
+  },
+  "fonts": {
+    "main": "Inter",
+    "headings": "Poppins"
+  },
+  "cargos": {
+    "Dono": ["Dono"],
+    "Diretoria": ["CEO", "COO", "DEV|CEO"],
+    "Administração": ["Administrador", "Gerente"],
+    "Gerente": ["Gerente de Mídia", "Gerente de Recrutamento", "Gerente de Comboio"],
+    "Motoristas": ["Motorista Sênior", "Motorista"]
+  },
+  "mapeamentoCargos": {
+    "CG | Owner": "Dono",
+    "CG | CEO": "CEO",
+    "CG | COO": "COO",
+    "CG | Driver": "Motorista",
+    "CG | Media Team": "Time de Media",
+    "CG | Admin": "Administrador",
+    "CG | Convoy Manager": "Gerente de Comboio",
+    "CG | Developer Team": "DEV|CEO"
+  },
+  "cargoPadrao": "Motorista"
+}
