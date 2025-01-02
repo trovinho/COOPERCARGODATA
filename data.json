@@ -1,6 +1,6 @@
 {
   "vtc": {
-    "id": 74496,
+    "id": 73333,
     "name": "Coopercargo",
     "slogan": "Eficiência em movimento",
     "logo": "https://truckersmp.com/assets/img/vtc/73333.png",
@@ -34,6 +34,11 @@
       "id": 66720,
       "name": "EUMEFA",
       "url": "https://truckersmp.com/vtc/66720"
+    },
+    {
+      "id": 74496,
+      "name": "POLAR EXPRESSO",
+      "url": "https://truckersmp.com/vtc/74496"
     }
   ],
   "theme": {
